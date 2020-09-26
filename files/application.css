@@ -360,6 +360,6 @@ article.post:nth-child(odd) {
   height: 200px
 }
 
-.title a{
+.title h1 a{
   color: #fff;
 }
