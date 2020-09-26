@@ -354,3 +354,12 @@ article.post:nth-child(odd) {
   font-size: 1rem;
   line-height: 1.5;
 }
+
+.top-image{
+  background-color: #db4615;
+  height: 200px
+}
+
+.title a{
+  color: #fff;
+}
