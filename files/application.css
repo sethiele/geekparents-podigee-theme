@@ -317,6 +317,13 @@ hr {
 
 /* custom */
 
+.subscribe_buttons > a {
+    color: black;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .btn {
     display: inline-block;
     font-weight: 400;
